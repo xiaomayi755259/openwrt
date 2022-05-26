@@ -97,4 +97,8 @@ svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-netspeedtest p
 #Smartdns
 svn co https://github.com/kiddin9/openwrt-packages/trunk/smartdns package/smartdns
 
+#argon
+svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-theme-argon package/luci-theme-argon
+
+
 ##############################################################################################
